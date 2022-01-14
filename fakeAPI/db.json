@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Ahmad Nurdiansyah",
+      "email": "ahmadnrdnsah@gmail.com",
+      "bidang": "React Native Developer",
+      "id": 3
+    },
+    {
+      "name": "Revaldi Afrian",
+      "email": "epangjonss123@gmail.com",
+      "bidang": "Pelajar SMP Nurul Fikri",
+      "id": 4
+    },
+    {
+      "name": "Ajeng Tri Julianti",
+      "email": "ajengtriyulianti@gmail.com",
+      "bidang": "Pelajar SMA Negeri 72 Jakarta",
+      "id": 5
+    },
+    {
+      "name": "Rahma Dewi Mustika",
+      "email": "rahmadewimustika@gmail.com",
+      "bidang": "Mahasiswi cantik dari UIN Semarang",
+      "id": 7
+    }
+  ]
+}
