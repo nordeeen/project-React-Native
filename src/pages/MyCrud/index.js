@@ -168,7 +168,7 @@ export default MyCrud;
 // STYLE CSS
 const styles = StyleSheet.create({
   container: {padding: 20},
-  text: {textAlign: 'center', padding: 20},
+  text: {textAlign: 'center', padding: 20, textTransform: 'uppercase'},
   line: {height: 2, backgroundColor: 'black', marginVertical: 20},
   picture: {width: 100, height: 100, borderRadius: 100 / 2},
   input: {
