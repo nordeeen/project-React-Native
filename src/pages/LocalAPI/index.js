@@ -121,7 +121,7 @@ const LocalAPI = () => {
       });
   };
 
-  //json-server --host 192.168.43.59 db.json --port 3004
+  //json-server --host 192.168.1.102 db.json --port 3004
 
   return (
     <ScrollView>
