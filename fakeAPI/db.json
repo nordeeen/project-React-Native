@@ -3,26 +3,32 @@
     {
       "name": "Ahmad Nurdiansyah",
       "email": "ahmadnrdnsah@gmail.com",
-      "bidang": "React Native Developer",
+      "bidang": "Web Developer & UI UX",
       "id": 3
     },
     {
-      "name": "Revaldi Afrian",
-      "email": "epangjonss123@gmail.com",
-      "bidang": "Pelajar SMP Nurul Fikri",
-      "id": 4
-    },
-    {
-      "name": "Ajeng Tri Julianti",
-      "email": "ajengtriyulianti@gmail.com",
-      "bidang": "Pelajar SMA Negeri 72 Jakarta",
-      "id": 5
-    },
-    {
-      "name": "Rahma Dewi Mustika",
+      "name": "Bee Maniskuhhh",
       "email": "rahmadewimustika@gmail.com",
       "bidang": "Mahasiswi cantik dari UIN Semarang",
       "id": 7
+    },
+    {
+      "name": "Mba Ajeng Galak",
+      "email": "ajengtriyulianti@gmail.com",
+      "bidang": "Pelajar SMA Negeri 72 Jakarta",
+      "id": 12
+    },
+    {
+      "name": "Revaldi Afrian Epang",
+      "email": "epangjonss123@gmail.com",
+      "bidang": "Atlet Karate Indonesia",
+      "id": 13
+    },
+    {
+      "name": "Muhammad Thariq Al Fatih",
+      "email": "thariqdev@gmail.com",
+      "bidang": "Fullstack Developer",
+      "id": 14
     }
   ]
 }

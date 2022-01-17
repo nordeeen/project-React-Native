@@ -11,7 +11,8 @@ import {ScrollView, View} from 'react-native';
 // import ReactNativeSvg from './pages/ReactNativeSvg';
 // import CallAPIVanilla from './pages/CallAPIVanilla';
 // import CallAPIAxios from './pages/CallAPIAxios';
-import LocalAPI from './pages/LocalAPI';
+// import LocalAPI from './pages/LocalAPI';
+import MyCrud from './pages/MyCrud';
 
 const App = () => {
   const [isShow, SetIsShow] = useState(true);
@@ -37,7 +38,8 @@ const App = () => {
         {/*<ReactNativeSvg /> */}
         {/* <CallAPIVanilla />*/}
         {/* <CallAPIAxios />*/}
-        <LocalAPI />
+        {/*<LocalAPI /> */}
+        <MyCrud />
       </ScrollView>
     </View>
   );
